@@ -1,0 +1,2 @@
+In these files you will come across many functionalities. The LEDs.ino file allows you to control the LED colors on the IRoomba, each color variation indicates a different function occuring. 
+Then there are the general function roomba functions which allow me to control the sensors and manually move the Roomba from a web application. 
